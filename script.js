@@ -1,4 +1,4 @@
-//This is a comment
+//This is a smart comment
 //Added comment -Daisuke
 
 //I am now in littlefeature branch
